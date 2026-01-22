@@ -1,0 +1,2 @@
+Hello world! This is my first Node.js file operation exercise.
+It has multiple lines and words.
