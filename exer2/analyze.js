@@ -1,6 +1,4 @@
 import fs from 'fs';
-// ye log.txt ke andar jo data hai usko line by line read karega 
-// stream ke saath use hota hai 
 import readline from 'readline'
 
 let errorcount=0;

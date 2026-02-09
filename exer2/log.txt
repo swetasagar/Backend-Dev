@@ -1,4 +1,3 @@
-ye log.txt ka hai code  
 INFO Server started
 ERROR Database error
 INFO User login
